@@ -2,14 +2,7 @@
 
 Alien-Invaders is a classic arcade-style game inspired by Space Invaders. The game is built using Python and the Pygame library. Players control a spaceship and must defend against waves of alien invaders by shooting them down while avoiding their attacks.
 
-## Table of Contents
 
-- Installation
-- Usage
-- [Game Controls](#game-controls)
-- [Project Structure](#project-structure)
-- Contributing
-- License
 
 ## Installation
 
